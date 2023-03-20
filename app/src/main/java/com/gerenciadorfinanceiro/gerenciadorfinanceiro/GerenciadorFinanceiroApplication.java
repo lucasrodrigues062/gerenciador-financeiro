@@ -1,13 +1,13 @@
-package com.example.petshop;
+package com.gerenciadorfinanceiro.gerenciadorfinanceiro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PetshopApplication {
+public class GerenciadorFinanceiroApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PetshopApplication.class, args);
+		SpringApplication.run(GerenciadorFinanceiroApplication.class, args);
 	}
 
 }

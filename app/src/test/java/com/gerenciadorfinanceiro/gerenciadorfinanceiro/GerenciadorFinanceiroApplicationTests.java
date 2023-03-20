@@ -1,10 +1,10 @@
-package com.example.petshop;
+package com.gerenciadorfinanceiro.gerenciadorfinanceiro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PetshopApplicationTests {
+class GerenciadorFinanceiroApplicationTests {
 
 	@Test
 	void contextLoads() {
